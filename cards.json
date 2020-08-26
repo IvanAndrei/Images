@@ -4,20 +4,23 @@
     "description":"Ground",
     "linkL":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/princebw.png",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
-    "bought":false
+    "bought":false,
+     "price":30
   },
  {
     "name":"Archers",
     "description":"Ground",
     "linkL":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archersbw.png",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "bought":false
+    "bought":false,
+     "price":30
   },
  {
     "name":"Baby Dragon",
     "description":"Ground",
     "linkL":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragonbw.png",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "bought":false 
+    "bought":false,
+     "price":30 
  }
 ]
