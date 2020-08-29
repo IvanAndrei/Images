@@ -1,26 +1,152 @@
 [ 
+  {
+    "name":"Archers",
+    "type":"Air&Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Minions",
+    "type":"Air&Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Knight",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Goblins",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Spear Goblins",
+    "type":"Air&Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Bomber",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Skeletons",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+  {
+    "name":"Barbarians",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
+    "rarity":"common",
+     "price":50
+  },
+ 
  {
-    "name":"Prince",
-    "description":"Ground",
-    "linkL":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/princebw.png",
+    "name":"Valkyrie",
+    "type":"Ground",    
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
-    "bought":false,
-     "price":30
+    "rarity":"rare",
+     "price":80
   },
  {
-    "name":"Archers",
-    "description":"Ground",
-    "linkL":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archersbw.png",
-    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "bought":false,
-     "price":30
+    "name":"Mini P.E.K.K.A.",
+    "type":"Ground",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"rare",
+     "price":80
+  },
+ {
+    "name":"Musketeer",
+    "type":"Ground&Air",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"rare",
+     "price":80
+  },
+ {
+    "name":"Hog Rider",
+    "type":"Ground",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"rare",
+     "price":80
+  },
+ {
+    "name":"Prince",
+    "type":"Ground",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"epic",
+     "price":80
+  },
+ {
+    "name":"Wall Breakers",
+    "type":"Ground",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"epic",
+     "price":80
+  },
+ {
+    "name":"Skeleton Army",
+    "type":"Ground",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"epic",
+     "price":80
+  },
+ {
+    "name":"Hunter",
+    "type":"Ground",    
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/prince.png",
+    "rarity":"epic",
+     "price":80
   },
  {
     "name":"Baby Dragon",
-    "description":"Ground",
-    "linkL":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragonbw.png",
+    "type":"Ground",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "bought":false,
-     "price":30 
+    "rarity":"epic"
+    "price":110 
+ }, 
+ {
+    "name":"Miner",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
+    "rarity":"legendary"
+    "price":300
+ },
+  {
+    "name":"Inferno Dragon",
+    "type":"Air&Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
+    "rarity":"legendary"
+    "price":300
+ },
+ {
+    "name":"Magic Archer",
+    "type":"Ground&Air",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
+    "rarity":"legendary"
+    "price":300
+ },
+ {
+    "name":"Mega Knight",
+    "type":"Ground",
+    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
+    "rarity":"legendary"
+    "price":300
  }
+
+
 ]
