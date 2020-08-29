@@ -116,35 +116,35 @@
     "name":"Baby Dragon",
     "type":"Ground",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "rarity":"epic"
+    "rarity":"epic",
     "price":110 
  }, 
  {
     "name":"Miner",
     "type":"Ground",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "rarity":"legendary"
+    "rarity":"legendary",
     "price":300
  },
   {
     "name":"Inferno Dragon",
     "type":"Air&Ground",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "rarity":"legendary"
+    "rarity":"legendary",
     "price":300
  },
  {
     "name":"Magic Archer",
     "type":"Ground&Air",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "rarity":"legendary"
+    "rarity":"legendary",
     "price":300
  },
  {
     "name":"Mega Knight",
     "type":"Ground",
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/BabyDragon.png",
-    "rarity":"legendary"
+    "rarity":"legendary",
     "price":300
  }
 
