@@ -19,43 +19,7 @@
     "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
     "rarity":"common",
      "price":50
-  },
-  {
-    "name":"Goblins",
-    "type":"Ground",
-    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "rarity":"common",
-     "price":50
-  },
-  {
-    "name":"Spear Goblins",
-    "type":"Air&Ground",
-    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "rarity":"common",
-     "price":50
-  },
-  {
-    "name":"Bomber",
-    "type":"Ground",
-    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "rarity":"common",
-     "price":50
-  },
-  {
-    "name":"Skeletons",
-    "type":"Ground",
-    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "rarity":"common",
-     "price":50
-  },
-  {
-    "name":"Barbarians",
-    "type":"Ground",
-    "linkU":"https://raw.githubusercontent.com/IvanAndrei/Images/master/Cards/Archers.png",
-    "rarity":"common",
-     "price":50
-  },
- 
+  }, 
  {
     "name":"Valkyrie",
     "type":"Ground",    
